@@ -1,6 +1,4 @@
-# DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI 2022
-
-### Desafio realizado para Academia Capgemini 2022, linguagem de programação utilizada JAVA.
+# DESAFIO DE JAVA
 
 
 ## Questão 01
